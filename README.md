@@ -1,4 +1,10 @@
 # SE-Termproject-GachonCafe
-This is Software Engineering Term Project \n
-GachonCafe using Android Studio \n
-GachonCafe using Firebase \n
+
+
+This is Software Engineering Term Project 
+
+
+GachonCafe using Android Studio 
+
+
+GachonCafe using Firebase 
