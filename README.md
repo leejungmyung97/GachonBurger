@@ -1,10 +1,7 @@
-# SE-Termproject-GachonCafe
+# SE-Termproject-GachonBurger
 
 
 This is Software Engineering Term Project 
 
 
-GachonCafe using Android Studio 
-
-
-GachonCafe using Firebase 
+GachonBurger using Android Studio & Firebase
