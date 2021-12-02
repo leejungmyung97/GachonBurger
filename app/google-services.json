@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9061020142",
+    "firebase_url": "https://gachon-burger-default-rtdb.firebaseio.com",
+    "project_id": "gachon-burger",
+    "storage_bucket": "gachon-burger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9061020142:android:d5b16b395e8ae456dedeff",
+        "android_client_info": {
+          "package_name": "gachon.mpclass.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9061020142-i7s3dats9nnm13gclu0lf8np9jik4hgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gachon.mpclass.myapplication",
+            "certificate_hash": "e528e29cff7351f443b8987938f1cd6c8c95861d"
+          }
+        },
+        {
+          "client_id": "9061020142-dmn3o9g7306sai5ieh9ka64pch9c0pic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-Y64aGjG-dkg367_2KYlY_RunLb6x5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9061020142-dmn3o9g7306sai5ieh9ka64pch9c0pic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

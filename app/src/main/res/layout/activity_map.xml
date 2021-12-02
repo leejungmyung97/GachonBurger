@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#EDC859">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center|center"
+            android:text="찾아오시는 길"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp" />
+    </LinearLayout><![CDATA[
+
+    >
+
+
+    ]]>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="566dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:background="@drawable/map"></ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="#EDC859">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|center"
+            android:text="성남시 수정구 성남대로 1342 글로벌캠퍼스 IT대학 1층
+                                          Tel : 031-970-0000"
+            android:textColor="#FFFFFF"
+            android:textSize="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Tel : 031-970-0000"
+            android:textColor="#FFFFFF"
+            android:textSize="12dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
