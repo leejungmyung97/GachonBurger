@@ -1,4 +1,4 @@
-# SE-Termproject-GachonBurger
+# SE Termproject-GachonBurger
 
 
 This is Software Engineering Term Project 
